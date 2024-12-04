@@ -36,11 +36,3 @@ for n, line in enumerate(dat):
         if safe:
             ans2 += 1
             break
-
-        
-    
-    
-                
-    
-        
-    
