@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  1 12:21:56 2024
-
-@author: Jet
-"""
-
 dat = open('input1.txt').read().splitlines()
 
 # part 1
