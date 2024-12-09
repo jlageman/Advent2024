@@ -46,7 +46,6 @@ class Disk:
                     self.file_start[filenum] = self.space_start[ii]
                     self.space_start[ii] = self.space_start[ii]+f
                     break
-        self.adj_space = space
         # compute checksum
         ans = 0
         for i, f in enumerate(self.files):
