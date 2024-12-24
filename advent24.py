@@ -47,5 +47,3 @@ for gate in sorted(wires.keys()):
         b += str(wires[gate])
 b = b[::-1]
 ans = int(b, 2)
-
-# part 2
