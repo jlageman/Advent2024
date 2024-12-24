@@ -27,7 +27,3 @@ for b, secret in enumerate(dat):
         buyers[b].append(secret % 10)
     numbers.append(secret)
 ans = sum(numbers)
-
-# part 2
-
-
